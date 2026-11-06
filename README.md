@@ -96,7 +96,7 @@ These take different approaches and complement this one:
 
 ## Credits
 
-I would like to give a big thanks to bwrsandman for finding intel C++ Compiler Version 5.0.1 Build 010525Z. I wouldn't have been able to get this project off the ground without him finding the compiler I'm using. It isn't 020125Z unfortunately (the compiler build Jurassic Park Operation Genesis was built with), but so far I have a match rate of ~%90. So long as I'm unable to find build 020125Z I won't be able to match all functions, but I can get pretty close.
+I would like to give a big thanks to bwrsandman for finding Intel C++ Compiler Version 5.0.1 Build 010525Z. I wouldn't have been able to get this project off the ground without him finding the compiler I'm using. It isn't 020125Z unfortunately (the compiler build Jurassic Park Operation Genesis was built with), but so far I have a match rate of ~%90. So long as I'm unable to find build 020125Z I won't be able to match all functions, but I can get pretty close.
 OpenToshi, OpenJPOG, and OpenBarnyard were also used as reference materials.
 
 ## Legal
