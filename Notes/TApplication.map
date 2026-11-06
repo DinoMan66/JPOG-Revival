@@ -1,0 +1,5 @@
+# non-exported TApplication functions (rva = Ghidra address - 0x10000000)
+FindConsoleWindow = 0x1000
+??3@YAXPAX@Z = 0x1510
+??2@YAPAXI@Z = 0x1520
+??_ETApplication@Toshi@@ = 0x10d0      

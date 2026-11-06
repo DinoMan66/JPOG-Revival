@@ -1,0 +1,4 @@
+functions still to do: 19298
+trivial (C++ generated): 4677  empty 1586, get 1027, gaddr 845, const 773, set 299, setconst 77, this 60, global 10
+identical-code clusters: 815 (52 free wins); functions covered by another cluster member: 2602
+left for real work: about 12019

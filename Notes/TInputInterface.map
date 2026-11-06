@@ -1,0 +1,9 @@
+# non-exported TInputInterface functions (rva = Ghidra address - 0x10000000)
+# compiler-generated vector deleting destructors (vtable slot 2 of each class)
+??_ETInputDevice@Toshi@@ = 0x1000
+??_ETInputDeviceController@Toshi@@ = 0x1a40
+??_ETInputDeviceKeyboard@Toshi@@ = 0x2190
+??_ETInputDeviceMouse@Toshi@@ = 0x25d0
+??_ETInputInterface@Toshi@@ = 0x2780
+# growable-array resize for 12-byte RepeatInfo elements (not inlined in the original)
+SetCapacity@?$TArray@URepeatInfo = 0x17a0

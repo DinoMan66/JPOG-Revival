@@ -1,0 +1,7 @@
+# non-exported TInputDXInterface functions (rva)
+??_ETInputDXDeviceController@Toshi@@ = 0x1000
+??_ETInputDXDeviceKeyboard@Toshi@@ = 0x19c0
+??_ETInputDXDeviceMouse@Toshi@@ = 0x2d50
+??_ETInputDXInterface@Toshi@@ = 0x3770
+?GetDeviceByIndex@ = 0x3c80
+?SetVibration@TInputDeviceController@Toshi@@ = 0x1930
