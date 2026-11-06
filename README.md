@@ -4,6 +4,8 @@ A work-in-progress **matching decompilation** of *Jurassic Park: Operation Genes
 Entertainment / Universal Interactive) for PC: the Toshi engine DLLs and the game itself, `SimJP.exe`.
 
 Hello everyone. This is my first decompilation project. While ZT1 Open Source was published first, I started game decompilation here, with Jurassic Park Operation Genesis one of my favorite games ever. I'm new to the decompilation scene and am still trying to improve my set up. Bear with me while I get the hang of things.
+The reason why I've named this decompilation JPOG Revival is because I hope to revive this classic game and get it running on modern systems, implement several new features, and add back cut content.
+Has nothing to do with the JPOG Revival series of mods for Jurassic World Evolution 3.
 
 The goal is readable C++ source that, compiled with Intel C++ 5.0.1, produces **the same machine code as the
 original, function by function**. A function only counts when it compiles to identical instructions *and*
