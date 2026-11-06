@@ -3,7 +3,7 @@
 A work-in-progress **matching decompilation** of *Jurassic Park: Operation Genesis* (2003, Blue Tongue
 Entertainment / Universal Interactive) for PC: the Toshi engine DLLs and the game itself, `SimJP.exe`.
 
-Hello everyone. This is my first decompilation project. While ZT1 Open Source was published first, I started game decompilation here, with Jurassic Park Operation Genesis one of my favorite games ever. I'm new to the decompilation scene and am still trying to improve my set up. Bear with me while I get the hang of things.
+Hello everyone. This is my first decompilation project. While ZT1 Open Source was published first, I started game decompilation here, with Jurassic Park Operation Genesis, one of my favorite games ever. I'm new to the decompilation scene and am still trying to improve my set up. Bear with me while I get the hang of things.
 The reason why I've named this decompilation JPOG Revival is because I hope to revive this classic game and get it running on modern systems, implement several new features, and add back cut content.
 Has nothing to do with the JPOG Revival series of mods for Jurassic World Evolution 3.
 
@@ -93,6 +93,11 @@ loop as a human would. Because of that, nothing is taken on trust:
 These take different approaches and complement this one:
 - [AdventureT/OpenJPOG](https://github.com/AdventureT/OpenJPOG) — decompilation of the Toshi engine and JPOG
 - [Voikanaa/jpog-decomp](https://github.com/Voikanaa/jpog-decomp) — portable C++20 reimplementation, tested against the original DLLs
+
+## Credits
+
+I would like to give a big thanks to bwrsandman for finding intel C++ Compiler Version 5.0.1 Build 010525Z. I wouldn't have been able to get this project off the ground without him finding the compiler I'm using. It isn't 020125Z unfortunately (the compiler build Jurassic Park Operation Genesis was built with), but so far I have a match rate of ~%90. So long as I'm unable to find build 020125Z I won't be able to match all functions, but I can get pretty close.
+OpenToshi, OpenJPOG, and OpenBarnyard were also used as reference materials.
 
 ## Legal
 
